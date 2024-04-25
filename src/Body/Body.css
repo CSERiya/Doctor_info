@@ -343,7 +343,6 @@ padding-top: 0px;
     position: relative;
     display: flex;
     background-color: black;
-    /* padding: 5px; */
     border-radius: 0.4cm;
     height: 22px;
     width: 58px;
@@ -406,8 +405,8 @@ padding-top: 0px;
 .lang img{
     height: 15px;
     width: 15px;
-    font-weight: bold; /* Make the image bold */
-    color: rgb(0, 12, 0); /* Change the color */
+    font-weight: bold; 
+    color: rgb(0, 12, 0); 
 }
 
 .lang p{
